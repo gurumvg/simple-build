@@ -1,0 +1,6 @@
+{
+	"source": "src",
+	"destination": "build",
+	"lintify": true,
+	"minify": true
+}
